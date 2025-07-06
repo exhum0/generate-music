@@ -1,0 +1,7 @@
+{
+  "tempo": 100,
+  "duration": 12,
+  "notes": [220, 440, 330],
+  "waveform": "square",
+  "volume": 0.2
+}
